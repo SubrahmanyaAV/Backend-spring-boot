@@ -2,7 +2,7 @@
 
  User login and signup with security features and web tokens(JWT) for authentication 
 
- Installation and setup -
+ Installation and setup used for this project-
  
  JDK 17 
  Maven 3..
